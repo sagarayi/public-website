@@ -1,7 +1,10 @@
-[submodule "coder"]
-	path = coder
-	url = /Volumes/Backup/Hobby/personal-website/website/themes/coder
+# [submodule "coder"]
+# 	path = coder
+# 	url = /Volumes/Backup/Hobby/personal-website/website/themes/coder
 [submodule "public"]
 	path = public
 	url = git@github.com:sagarayi/sagarayi.github.io.git
 	branch = master
+[submodule "themes/hugo-coder"]
+	path = themes/hugo-coder
+	url = https://github.com/luizdepra/hugo-coder.git
