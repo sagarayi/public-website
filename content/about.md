@@ -11,6 +11,7 @@ If you want to know me professionally, here is my [resume](https://drive.google.
 * Love to drive cars and bikes. Anytime.
 * Always updated with latest in the tech world. In fact, I am updated about most things in the world 😎
 * An avid sleeper.
+* Always blue !!!
 
 <!-- Hugo is a static site engine written in Go.
 

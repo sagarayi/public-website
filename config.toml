@@ -1,4 +1,4 @@
-baseurl = "http://www.sagarayi.github.io" # Hostname (and path) to the root.
+baseurl = "http://sagarayi.github.io" # Hostname (and path) to the root.
 title = "sagarayi" # Site title.
 theme = "coder" # Set the theme.
 languagecode = "en" # The site’s language code.
@@ -14,6 +14,7 @@ pygmentscodefencesguesssyntax = true # Enable syntax guessing for code fences wi
     author = "Sagar Ayi" # Author's name.
     
     description = "Sagar Ayi's personal website" # Site description.
+    info = "Mobile and Desktop application developer"
     keywords = "blog,developer,personal" # Site keywords.
 
     disqusShortname = "sagarayi" # Enable or disable Disqus
