@@ -1,4 +1,4 @@
-baseurl = "http://sagarayi.github.io" # Hostname (and path) to the root.
+baseurl = "https://sagarayi.github.io" # Hostname (and path) to the root.
 title = "sagarayi" # Site title.
 theme = "hugo-coder" # Set the theme.
 languagecode = "en" # The site’s language code.
@@ -23,6 +23,9 @@ pygmentscodefencesguesssyntax = true # Enable syntax guessing for code fences wi
     hideCredits = false
     hideCopyright = false
 
+    favicon_32 = "/images/favicon.png"
+    favicon_16 = "/images/favicon.png"
+
     # Custom CSS
 	custom_css = []
 
@@ -39,7 +42,8 @@ pygmentscodefencesguesssyntax = true # Enable syntax guessing for code fences wi
     url = "https://www.linkedin.com/in/sagarayi/"
 [[params.social]]
     name = "Resume"
-    weight = 1
+    weight = 3
+    icon = "far fa-file-alt"
     url = "https://drive.google.com/file/d/14eU4SDiiEhPDOclu845n0u302mtebItA/view?usp=sharing"    
 
 # Menu links
