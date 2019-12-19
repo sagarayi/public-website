@@ -1,18 +1,9 @@
 +++
-title = "About Me"
+title = "About Hugo"
 slug = "about"
 +++
 
-Currently a Master's student in computer science at Northeastern University, Boston, MA. 
-If you want to know me professionally, here is my [resume](https://drive.google.com/file/d/14eU4SDiiEhPDOclu845n0u302mtebItA/view?usp=sharing).
-
-### Things you won't find on my resume
-
-* Love to drive cars and bikes. Anytime.
-* Always updated with latest in the tech world. In fact, I am updated about most things in the world 😎
-* An avid sleeper.
-
-<!-- Hugo is a static site engine written in Go.
+Hugo is a static site engine written in Go.
 
 
 It makes use of a variety of open source projects including:
@@ -35,4 +26,4 @@ Some fun facts about [Hugo](http://gohugo.io/):
 
 Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/spf13/hugo/issues/new) or [ask me on Twitter](https://twitter.com/spf13).
 
-Thanks for reading! -->
+Thanks for reading!

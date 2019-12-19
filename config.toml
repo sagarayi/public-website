@@ -12,7 +12,7 @@ pygmentscodefencesguesssyntax = true # Enable syntax guessing for code fences wi
 
 [params] # theme parameters
     author = "Sagar Ayi" # Author's name.
-    info = "iOS developer" # Author's job title or info.
+    
     description = "Sagar Ayi's personal website" # Site description.
     keywords = "blog,developer,personal" # Site keywords.
 
@@ -38,6 +38,10 @@ pygmentscodefencesguesssyntax = true # Enable syntax guessing for code fences wi
     name = "Quora"
     weight = 3
     url = "https://www.quora.com/profile/Sagar-Ayi"
+[[params.social]]
+    name = "Resume"
+    weight = 4
+    url = "https://drive.google.com/file/d/14eU4SDiiEhPDOclu845n0u302mtebItA/view?usp=sharing"    
 
 # Menu links
 [[menu.main]]
